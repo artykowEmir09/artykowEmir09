@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Emir
 
-<!--
-**artykowEmir09/artykowEmir09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student | Python Developer
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description |
+|---|---|
+| 🎓 Student Management System | Student record management system |
+| 🎮 Quiz Game | Interactive Python quiz game |
+| 🧮 Calculator | Simple Python calculator |
+
+## 📚 Learning
+
+🐍 Currently learning Python
+
+- Variables & Data Types
+- Conditions
+- Loops
+- Lists & Dictionaries
+- Functions
+- OOP
+- Data Structures & Algorithms
+
+## 🛠️ Skills
+
+Python • Git • GitHub • C++ • HTML • CSS • JavaScript
