@@ -1,105 +1,59 @@
-# 👋 Hi, I'm Emir Artykov
+# 👋 Hi there, I'm Emir
 
-### 💻 Software Engineering Student | Python Developer
-
-Welcome to my GitHub profile!
-I'm currently studying **Software Engineering** and building my programming skills through projects and continuous learning.
+### 💻 Software Engineering Student
 
 ---
 
-## 🚀 Projects
+## 👨‍💻 About Me
 
-| Project                                                                                    | Description                      | Technology |
-| ------------------------------------------------------------------------------------------ | -------------------------------- | ---------- |
-| 🎓 [Student Management System](https://github.com/artykowEmir09/student-management-system) | Student record management system | Python     |
-| 🧮 Calculator                                                                              | Simple calculator application    | Python     |
-| 🎮 Quiz Game                                                                               | Interactive quiz application     | Python     |
-| ✅ Todo App                                                                                 | Task management application      | Python     |
+I'm a Software Engineering student passionate about building
+clean, reliable and user-friendly applications.
 
----
-
-## 📚 Currently Learning
-
-```text
-🐍 Python
-   ↓
-🏗️ Object-Oriented Programming
-   ↓
-🧠 Data Structures & Algorithms
-   ↓
-🌐 Web Development
-   ↓
-💻 Software Engineering
-```
-
-### Python Topics
-
-* Variables & Data Types
-* Conditions
-* Loops
-* Lists & Dictionaries
-* Sets & Tuples
-* Functions
-* File Handling
-* Object-Oriented Programming
+- 🌱 Currently learning **C++ and Python**
+- 💻 Interested in **Software Engineering**
+- 🐍 Learning and building with **Python**
+- 🚀 Always improving my coding skills
+- 💡 Interested in solving problems with code
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Programming Languages
 
-`Python` `C++` `HTML` `CSS` `JavaScript`
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools**
+### 🌐 Web Development
 
-`Git` `GitHub` `VS Code`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### 🗄️ Database
 
-## 🎯 2026 Goals
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-* [x] Learn Python fundamentals
-* [x] Build my first Python projects
-* [x] Learn Git & GitHub
-* [ ] Master Object-Oriented Programming
-* [ ] Learn Data Structures & Algorithms
-* [ ] Build larger Python applications
-* [ ] Learn backend development
-* [ ] Build a full-stack project
+### 🔧 Tools
 
----
-
-## 📈 My GitHub Journey
-
-I'm building my GitHub profile one project at a time.
-
-```text
-Learn
-  ↓
-Practice
-  ↓
-Build
-  ↓
-Commit
-  ↓
-Push
-  ↓
-Improve 🚀
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
-I use GitHub to document my learning journey and consistently practice software development.
-
----
-
-## 📫 Connect With Me
-
-GitHub: [@artykowEmir09](https://github.com/artykowEmir09)
+![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Get In Touch
+
+- 💼 LinkedIn
+- 📸 Instagram
+- 🐙 GitHub
+
+---
+
+> "First, solve the problem. Then, write the code."
